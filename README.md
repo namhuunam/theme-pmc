@@ -1,23 +1,11 @@
 # THEME - PMC 2022 - OPHIM CMS
 
-## Demo
-### Trang Chủ
-![Alt text](https://i.ibb.co/fxJ5yrV/PMC-INDEX.png "Home Page")
-
-### Trang Danh Sách Phim
-![Alt text](https://i.ibb.co/grn5hDx/PMC-CATALOG.png "Catalog Page")
-
-### Trang Thông Tin Phim
-![Alt text](https://i.ibb.co/ZdC6qW3/PMC-SINGLE.png "Single Page")
-
-### Trang Xem Phim
-![Alt text](https://i.ibb.co/nsfQ0JL/PMC-EPISODE.png "Episode Page")
-
-## Requirements
-https://github.com/hacoidev/ophim-core
-
 ## Install
-1. Tại thư mục của Project: `composer require ophimcms/theme-pmc`
+1. Cài đặt package
+```bash
+composer config repositories.ophim-theme-pmc vcs https://github.com/namhuunam/ophim-theme-pmc.git
+```
+1. Tại thư mục của Project: `composer require namhuunam/ophim-theme-pmc`
 2. Kích hoạt giao diện trong Admin Panel
 
 ## Update
