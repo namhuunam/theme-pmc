@@ -3,9 +3,9 @@
 ## Install
 1. Cài đặt package
 ```bash
-composer config repositories.ophim-theme-pmc vcs https://github.com/namhuunam/ophim-theme-pmc.git
+composer config repositories.theme-pmc vcs https://github.com/namhuunam/theme-pmc.git
 ```
-1. Tại thư mục của Project: `composer require namhuunam/ophim-theme-pmc`
+1. Tại thư mục của Project: `composer require namhuunam/theme-pmc`
 2. Kích hoạt giao diện trong Admin Panel
 
 ## Update
