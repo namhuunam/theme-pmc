@@ -114,7 +114,7 @@ class ThemePmcServiceProvider extends ServiceProvider
                         <div id="footer">
                             <div class="container">
                                 <a id="footer-logo" class="column" href="">
-                                    <img src="https://ophim.cc/logo-ophim-5.png" alt="" />
+                                    <img src="/logo.png" alt="" />
                                 </a>
                                 <div class="column contact">
                                     <p>Phim Mới</p>
