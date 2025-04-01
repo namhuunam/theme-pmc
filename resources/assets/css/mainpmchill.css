@@ -337,7 +337,7 @@ body,html{
 	margin-bottom:15px;
 	padding:16px 0;
 	color:#a5cbef;
-	background:#ff8a00;
+	background:#dd1768;
 	-webkit-background-clip:text;
 	-webkit-text-fill-color:transparent;
 	-webkit-box-decoration-break:clone;
@@ -541,7 +541,8 @@ body,html{
 	margin:0 10px 10px 0;
 	display:block;
 	position:relative;
-	overflow:hidden
+	overflow:hidden;
+	border-radius: 1em
 }
 .list-film>.item p{
 	position:absolute;
