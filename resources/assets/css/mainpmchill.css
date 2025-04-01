@@ -337,7 +337,7 @@ body,html{
 	margin-bottom:15px;
 	padding:16px 0;
 	color:#a5cbef;
-	background:#dd1768;
+	background:#f53886;
 	-webkit-background-clip:text;
 	-webkit-text-fill-color:transparent;
 	-webkit-box-decoration-break:clone;
@@ -519,7 +519,7 @@ body,html{
 	color:#fff;
 	z-index:2;
 	left:0;
-	background:#ff9601;
+	background:#f53886;
 	border-radius:0 5px 5px 0
 }
 #film-hot.list-film .item .label-quality:before{
@@ -793,7 +793,7 @@ body,html{
 	color:#ff9601
 }
 .episodes li a.active{
-	background:#ff9601
+	background:#f74e94
 }
 .episodes li.active a:hover{
 	color:#fff
@@ -801,12 +801,12 @@ body,html{
 .film-info h1{
 	font-size:28px;
 	margin:20px 0 8px;
-	color:#ff9601
+	color:#f74e94
 }
 .film-info h1 a{
 	font-size:28px;
 	margin:20px 0 8px;
-	color:#ff9601
+	color:#f74e94
 }
 .film-info>h2>a{
 	font-size:16px;
@@ -878,7 +878,7 @@ body,html{
 	font-weight:700;
 	margin-bottom:15px;
 	font-size:1.1em;
-	color:#ff9601
+	color:#f53886
 }
 .block-film.show-time .heading{
 	font-size:1.3em
@@ -2147,11 +2147,11 @@ button.toast-close-button{
 	color:#fff
 }
 span.imdb{
-	color:#000;
+	color:#fdfdfd;
 	padding:3px;
 	font-size:12px;
 	font-weight:700;
-	background:#e3b71e;
+	background:#f74e94;
 	-webkit-border-radius:3px;
 	-moz-border-radius:3px;
 	border-radius:3px
