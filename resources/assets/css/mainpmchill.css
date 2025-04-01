@@ -486,7 +486,7 @@ body,html{
     /* Cập nhật gradient: Đỏ -> Hồng Hoàng Kim -> Đỏ */
     background-image: linear-gradient(to right, ##f716a8 0%, #FF80AB 51%, #f716a8 100%);
     transition: .7s;
-    border-radius: .50em; /* Thêm bo góc tròn nhẹ */
+    border-radius: .6em; /* Thêm bo góc tròn nhẹ */
     /* Thuộc tính position: relative top: 5px; trong file gốc là lỗi cú pháp */
     /* và đã được thay bằng position: absolute; và top: 5px; ở trên */
 }
