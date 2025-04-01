@@ -473,7 +473,7 @@ body,html{
 }
 .list-film .item .label {
     position: absolute; /* Giữ position absolute */
-    top: 5px; /* Sửa lỗi cú pháp gốc và áp dụng top */
+    top: 0px; /* Sửa lỗi cú pháp gốc và áp dụng top */
     padding: 5px; /* Giữ padding gốc từ file */
     font-size: 11px; /* Giữ font-size gốc từ file */
     color: #fff;
@@ -484,9 +484,9 @@ body,html{
     font-weight: 400;
     background-size: 200% 100%;
     /* Cập nhật gradient: Đỏ -> Hồng Hoàng Kim -> Đỏ */
-    background-image: linear-gradient(to right, #C02425 0%, #FF80AB 51%, #C02425 100%);
+    background-image: linear-gradient(to right, ##f716a8 0%, #FF80AB 51%, #f716a8 100%);
     transition: .7s;
-    border-radius: .25em; /* Thêm bo góc tròn nhẹ */
+    border-radius: .50em; /* Thêm bo góc tròn nhẹ */
     /* Thuộc tính position: relative top: 5px; trong file gốc là lỗi cú pháp */
     /* và đã được thay bằng position: absolute; và top: 5px; ở trên */
 }
