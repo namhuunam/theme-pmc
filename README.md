@@ -22,7 +22,7 @@ composer config repositories.theme-pmc vcs https://github.com/namhuunam/theme-pm
 
 - Trang chủ:
 ```bash
-Phim Mới Cập Nhật|||is_copyright|0|updated_at|desc|12|/danh-sach/phim-moi|section_poster_1
+Phim Mới Cập Nhật||is_copyright|0|updated_at|desc|12|/danh-sach/phim-moi|section_poster_1
 Phim Chiếu Rạp||is_shown_in_theater|1|updated_at|desc|12|/danh-sach/phim-chieu-rap|section_poster_1
 Phim lẻ mới||type|single|updated_at|desc|12|/danh-sach/phim-le|section_poster_1
 Phim bộ mới||type|series|updated_at|desc|12|/danh-sach/phim-bo|section_poster_1
